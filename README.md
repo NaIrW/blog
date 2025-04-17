@@ -1,6 +1,6 @@
 I lost my secret key, so now I only publish blogs by directly accessing the database.
 
-Here is the address for some of the secret blogs: 80d6e72991b26d5b11d393824c44e13863d62c0fd0a6741d69680230cbb54877.
+Here is the address for some of the secret blogs: `80d6e72991b26d5b11d393824c44e13863d62c0fd0a6741d69680230cbb54877`.
 
 There might be some things you wonder about.
 
